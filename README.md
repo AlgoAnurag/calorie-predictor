@@ -12,7 +12,7 @@ This app predicts the calories burnt during exercise using an advanced machine l
 ## Screenshot
 Here’s a screenshot of the app in action:
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Installation
 1. Clone the repository:
